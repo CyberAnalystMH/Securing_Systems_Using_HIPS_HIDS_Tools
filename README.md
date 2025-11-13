@@ -14,6 +14,7 @@ Setup
 - FTP (21) and SSH (22) is on and enabled as an attack surface
 - Pen-Test the Servers using Kali Linux to simulate an attacker
 - Have fun
+  
 **Why 4 Linux Servers:** Due to all the tools mentioned, being IPS/IDS, they can easily conflict with each other and cause a lot of false alerts (Negative or Positive).
   
 Suricata (Only IDS) 
